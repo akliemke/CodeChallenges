@@ -8,3 +8,4 @@ Some code challenges. As I resolve the challenges, I'll add the subdomains
 # Algorithms
 
 ## Warmup
+  - Diagonal Difference
