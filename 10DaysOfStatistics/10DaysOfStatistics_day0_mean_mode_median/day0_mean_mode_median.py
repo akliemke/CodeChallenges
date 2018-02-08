@@ -10,7 +10,7 @@ def mediana(lista, n):
 
     if len(lista) % 2 != 0:
         lista.sort()
-        mediana  = lista(int((len(lista) - 1) / 2))
+        mediana  = int(lista[int((len(lista) - 1) / 2)])
     else:
         lista.sort()
         posicao_meio = int(len(lista) / 2) - 1
